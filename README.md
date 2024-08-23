@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chetna
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning c++
 
 
 <!---
